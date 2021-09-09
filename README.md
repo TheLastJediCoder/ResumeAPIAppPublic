@@ -1,5 +1,5 @@
 # ResumeAPIAppPublic
-Application with landing page and admin panel for restaurant to advertise and manage menu and deals.
+Flask Application to handle API request and respond with JSON output.
 
 
 # Description
